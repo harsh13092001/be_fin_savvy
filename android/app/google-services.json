@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369179267614",
+    "project_id": "befinsavvy-81aeb",
+    "storage_bucket": "befinsavvy-81aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369179267614:android:f6c8e51d25cb41dcd0540f",
+        "android_client_info": {
+          "package_name": "com.example.be_fin_savvy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369179267614-knk65unfkj93b11gbrrudc8sfep1i3c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANc9m0dwSrSxU1JDw_VWLRvtijtEcBOrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369179267614-knk65unfkj93b11gbrrudc8sfep1i3c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
